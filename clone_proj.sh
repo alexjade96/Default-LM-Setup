@@ -17,5 +17,5 @@ mkdir -p $backup/$now >> $logfile 2>&1
 cp -rf $source $dest/$now >> $logfile 2>&1
 cp -rf $source $backup/$now >> $logfile 2>&1
 
-echo Script completed on `date '+%Y-%m-%d %H:%M:%S'` >> $logfile 2>&1
+echo Clone completed on `date '+%Y-%m-%d %H:%M:%S'` >> $logfile 2>&1
 
