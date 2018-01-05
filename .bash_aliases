@@ -1,0 +1,6 @@
+alias cls='clear'
+alias quit='exit'
+alias testing='cd /home/ayeh/Documents/Testing'
+alias projects='cd /home/ayeh/Documents/Projects'
+alias upd='sudo /home/ayeh/Documents/Profile/upd.sh'
+alias clone='sudo /home/ayeh/Documents/Profile/clone_proj.sh'
